@@ -1,6 +1,6 @@
 ## 🚀 Getting Started
 
-**Press the button below to open the notebook:**
+**Press the button below to open the notebook. This is a master notebook template created by the TrainDoc AI team. Please read the instructions below.**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vuWYyULFsfbN1AcVl9qKx7TF0GwEZR4-?usp=sharing)
 
